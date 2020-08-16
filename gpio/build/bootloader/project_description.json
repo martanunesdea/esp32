@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "/Users/martanunesdeabreu/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "/Users/martanunesdeabreu/esp32/gpio/build/bootloader",
+    "config_file":        "/Users/martanunesdeabreu/esp32/gpio/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.2-dev-1905-g625bd5eb1",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "/Users/martanunesdeabreu/esp/esp-idf/components/efuse/Kconfig;/Users/martanunesdeabreu/esp/esp-idf/components/esp32/Kconfig;/Users/martanunesdeabreu/esp/esp-idf/components/esp_common/Kconfig;/Users/martanunesdeabreu/esp/esp-idf/components/log/Kconfig;/Users/martanunesdeabreu/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "/Users/martanunesdeabreu/esp/esp-idf/components/bootloader/Kconfig.projbuild;/Users/martanunesdeabreu/esp/esp-idf/components/esptool_py/Kconfig.projbuild;/Users/martanunesdeabreu/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "/Users/martanunesdeabreu/esp/esp-idf/components/bootloader", "/Users/martanunesdeabreu/esp/esp-idf/components/bootloader_support", "/Users/martanunesdeabreu/esp/esp-idf/components/efuse", "/Users/martanunesdeabreu/esp/esp-idf/components/esp32", "/Users/martanunesdeabreu/esp/esp-idf/components/esp_common", "/Users/martanunesdeabreu/esp/esp-idf/components/esp_rom", "/Users/martanunesdeabreu/esp/esp-idf/components/esptool_py", "/Users/martanunesdeabreu/esp/esp-idf/components/log", "/Users/martanunesdeabreu/esp/esp-idf/components/bootloader/subproject/main", "/Users/martanunesdeabreu/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "/Users/martanunesdeabreu/esp/esp-idf/components/partition_table", "/Users/martanunesdeabreu/esp/esp-idf/components/soc", "/Users/martanunesdeabreu/esp/esp-idf/components/spi_flash", "/Users/martanunesdeabreu/esp/esp-idf/components/xtensa", "" ]
+}

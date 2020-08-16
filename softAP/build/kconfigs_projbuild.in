@@ -1,0 +1,5 @@
+source "/Users/martanunesdeabreu/esp/esp-idf/components/app_update/Kconfig.projbuild"
+source "/Users/martanunesdeabreu/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/Users/martanunesdeabreu/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/Users/martanunesdeabreu/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/Users/martanunesdeabreu/esp32/softAP/main/Kconfig.projbuild"
