@@ -596,6 +596,13 @@
 /Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/wifi_provisioning/CMakeFiles/rebuild_cache.dir
 /Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/wifi_provisioning/CMakeFiles/edit_cache.dir
 /Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/wifi_provisioning/CMakeFiles/__idf_wifi_provisioning.dir
+/Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/adc/CMakeFiles/install/local.dir
+/Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/adc/CMakeFiles/install/strip.dir
+/Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/adc/CMakeFiles/install.dir
+/Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/adc/CMakeFiles/list_install_components.dir
+/Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/adc/CMakeFiles/__idf_adc.dir
+/Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/adc/CMakeFiles/rebuild_cache.dir
+/Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/adc/CMakeFiles/edit_cache.dir
 /Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/main/CMakeFiles/install/local.dir
 /Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/main/CMakeFiles/__idf_main.dir
 /Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/main/CMakeFiles/rebuild_cache.dir

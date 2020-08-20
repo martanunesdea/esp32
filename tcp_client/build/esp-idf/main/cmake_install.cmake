@@ -1,4 +1,4 @@
-# Install script for directory: /Users/martanunesdeabreu/esp32/tcp_client/main
+# Install script for directory: /Users/martanunesdeabreu/esp32/tcp_client/components/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

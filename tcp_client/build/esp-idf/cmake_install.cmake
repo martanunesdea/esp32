@@ -112,6 +112,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/ulp/cmake_install.cmake")
   include("/Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/unity/cmake_install.cmake")
   include("/Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/wifi_provisioning/cmake_install.cmake")
+  include("/Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/adc/cmake_install.cmake")
   include("/Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/main/cmake_install.cmake")
   include("/Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/protocol_examples_common/cmake_install.cmake")
 

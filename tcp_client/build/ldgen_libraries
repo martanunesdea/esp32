@@ -63,5 +63,6 @@
 /Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/ulp/libulp.a
 /Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/unity/libunity.a
 /Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
+/Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/adc/libadc.a
 /Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/main/libmain.a
 /Users/martanunesdeabreu/esp32/tcp_client/build/esp-idf/protocol_examples_common/libprotocol_examples_common.a
